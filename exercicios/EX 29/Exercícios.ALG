@@ -1,22 +1,22 @@
-Algoritmo "Soma entre dois números"
-// Disciplina   : [Linguagem e Lógica de Programação]
+Algoritmo "Soma entre dois nÃºmeros"
+// Disciplina   : [Linguagem e LÃ³gica de ProgramaÃ§Ã£o]
 // Professor   : Hiram Amaral
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
+// DescriÃ§Ã£o   : Aqui vocÃª descreve o que o programa faz! (funÃ§Ã£o)
+// Autor(a)    : Maria Fernanda
 // Data atual  : 29/03/2022
 Var
-   // Seção de Declarações das variáveis
+   // SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis
    x, y: inteiro
 
 Inicio
-   // Seção de Comandos, procedimento, funções, operadores, etc...
+   // SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc...
 
-   escreva("Digite o primeiro número: ")
+   escreva("Digite o primeiro nÃºmero: ")
    leia(x)
 
-   escreva("Digite o segundo número: ")
+   escreva("Digite o segundo nÃºmero: ")
    leia(y)
 
-   escreva("A soma dos números é:",x+y)
+   escreva("A soma dos nÃºmeros Ã©:",x+y)
 
 Fimalgoritmo
